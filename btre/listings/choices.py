@@ -1,0 +1,62 @@
+bedroom_choices={
+    '1':1,
+    '2':2,
+    '3':3,
+    '4':4,
+    '5':5,
+    '6':6,
+    '7':7,
+    '8':8,
+    '9':9,
+    '10':10
+}
+
+price_choices={
+    '100000':'₹100000',
+    '200000':'₹200000',
+    '300000':'₹300000',
+    '400000':'₹400000',
+    '500000':'₹500000',
+    '600000':'₹600000',
+    '700000':'₹700000',
+    '800000':'₹800000',
+    '900000':'₹900000',
+    '1000000':'₹1000000+'
+}
+
+state_choices={
+    'AP':'Andhra Pradesh',
+    'AR':'Arunachal Pradesh',
+    'AS':'Assam',
+    'BR':'Bihar',
+    'CG':'Chhattisgarh',
+    'GA':'Goa',
+    'HR':'Haryana',
+    'HP':'Himachal Pradesh',
+    'JK':'Jammu and Kashmir',
+    'JH':'Jharkhand',
+    'KA':'Karnataka',
+    'KL':'Kerala',
+    'MP':'Madhya Pradesh',
+    'MH':'Maharashtra',
+    'MN':'Manipur',
+    'ML':'Meghalaya',
+    'MZ':'Mizoram',
+    'NL':'Nagaland',
+    'OR':'Orissa',
+    'PB':'Punjab',
+    'RJ':'Rajasthan',
+    'SK':'Sikkim',
+    'TN':'Tamil Nadu',
+    'TR':'Tripura',
+    'UK':'Uttarakhand',
+    'UP':'Uttar Pradesh',
+    'WB':'West Bengal',
+    'AN':'Andaman and Nicobar Islands',
+    'DH':'Dadra and Nagar Haveli',
+    'DD':'Daman and Diu',
+    'DL':'Delhi',
+    'LD':'Lakshadweep',
+    'PY':'Pondicherry',
+    'CH':'Chandigarh'
+}
